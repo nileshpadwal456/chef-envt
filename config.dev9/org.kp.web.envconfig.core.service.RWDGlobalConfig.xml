@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:OsgiConfig"
+    global.dto.api.url="https://api-dev9.kaiserpermanente.org"
+    global.pps.api.url="https://pps-dev9.kaiserpermanente.org:8443"
+    global.apic.api.url="https://apip-dev9.kaiserpermanente.org"
+    global.apims.api.url="https://apims-hqa.kaiserpermanente.org:2050/kp/esb-envlbl/hqa"
+    global.pps.consumer.id="NML"
+    global.pps.loc.id="0242"
+    global.webtrends.api.key="dcs222ztn4r4c8xywar4u321t_5k5j"
+          global.apic.api.key="kprwd65766367497853935616"
+          global.dto.api.key="kpcdsacaa79032684995327148032"
+          global.rx.dto.api.key="kprwdpharmctr17021338336635379712"
+ 		  global.rx.xibm.clientId="3df35f99-8178-42aa-a535-8cd37c9a2a84"
+          global.xibm.clientId="7b1cabc5-b7b2-4f13-8a6a-a6fd40b7b0d1"
+          global.xibm.clientSecret="U0nI6iT1cW2rG6iS0nG7rT4xQ2tM3iX0lQ3aX8mN7uV3pJ5xX7"></jcr:root>
