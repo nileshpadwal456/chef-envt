@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:OsgiConfig"
+    externalizer.domains="[domain https://dev99.kaiserpermanente.org,english https://dev99.kaiserpermanente.org,spanish https://espanol-dev99.kaiserpermanente.org,publish https://dev99.kaiserpermanente.org, author http://xjzxdea0100x.dta.kp.org:4502,preview xjzxdep0101x.dta.kp.org :14503]"/>
