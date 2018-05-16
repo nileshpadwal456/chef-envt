@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:OsgiConfig"
+    id="message-center"
+    jsonItems="[
+                dtoServerUri:'https://dev100.kaiserpermanente.org',
+                apimsDtoServerUri:'https://apims-dev.kaiserpermanente.org:2050/kp/esb-envlbl/dev3',
+                apimsIbmClientId:'2fc08bf9-224e-43d6-854e-828abcd936d3',
+                xIbmClientId:'kprwdmsgctr57581684389151629312',
+                messagesApiUri: '/mycare/dit/message-center/mc-bff-messages/v1/messages',
+                messageDetailsApiUri: '/mycare/dit/message-center/mc-bff-messages/v1/message-details/detail',
+                unReadCountMessageApiUri:'/mycare/dit/message-center/mc-bff-messages/v1/messages/count',
+                messageTrashApiUri:'/mycare/dit/message-center/mc-bff-messages/v1/messages/trash',
+                recipientsApiUri:'/mycare/dit/message-center/mc-bff-messages/v1/recipients',
+                messageApiUri:'/mycare/dit/message-center/mc-bff-attachment/v1/message',
+                wdfconfigApiUri:'/mycare/dit/message-center/mc-bff-messages/v1/wdfconfig',
+                attachmentApiUri: '/mycare/dit/message-center/mc-bff-attachment/v1/message/attachment']" />
